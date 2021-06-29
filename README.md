@@ -1,2 +1,2 @@
-# 2021CISCN-preliminary-pwn
-challenges and wp for 2021CISCN pwn
+# pwn4fun
+Record the idea of solving the challenges
